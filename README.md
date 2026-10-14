@@ -1,3 +1,7 @@
+# Pushup Pi
+
+A public Pi fork that requires push-ups before sending a prompt from the existing Pi TUI. [Setup, TUI settings, and architecture](packages/coding-agent/examples/extensions/pushups/README.md).
+
 <p align="center">
   <a href="https://pi.dev">
     <img alt="pi logo" src="https://pi.dev/logo-auto.svg" width="128">

@@ -45,3 +45,7 @@ plans/
 .pi/hf-sessions-backup/
 collect.sh
 packages/agent/docs/extensions/pi-server-artifact/index.md
+
+# Local Pushup Pi settings
+.pi/pushups.local.json
+.pi/pushups.local.json.*.tmp
